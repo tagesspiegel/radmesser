@@ -3,9 +3,9 @@
 Die Datensätze werden unter der Open Data Commons Attribution License (ODC-By) v1.0 zur Verfügung gestellt:
 https://www.opendatacommons.org/licenses/by/1.0/
 
-Bedingungen sind: Die Nennung des Ursprungsprojekts "Tagesspiegel Radmesser" und ein Link zum Originalprojekt https://radmesser.de.
+Bedingungen sind: Die Nennung des Ursprungsprojekts "Tagesspiegel Radmesser" und ein Link zum Originalprojekt http://radmesser.de.
 
-Die korrekte Attribution bei allen daraus entstehenden Veröffentlichungen ist also: ODC-By v1.0/Tagesspiegel Radmesser/https://radmesser.de
+Die korrekte Attribution bei allen daraus entstehenden Veröffentlichungen ist also: ODC-By v1.0/Tagesspiegel Radmesser/http://radmesser.de
 
 Alternativ ist es möglich, folgendermaßen zu zitieren:
  ODC-By v1.0/<a href="https://interaktiv.tagesspiegel.de/radmesser">Tagesspiegel Radmesser</a>
